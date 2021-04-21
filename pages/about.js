@@ -35,7 +35,8 @@ export default function About() {
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
             <p>
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;สวัสดีครับ ผมชื่อปฐมภัทร์ สูงปานเขาทำงานเป็น Software Developer อยู่ที่บริษัท Aston International
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;สวัสดีครับ ผมชื่อปฐมภัทร์ สูงปานเขา ชื่อเล่น มั่ง อายุ 25 ปี
+              ปัจจุบันทำงานเป็น Software Developer อยู่ที่บริษัท Aston International
               ทำหน้าที่พัฒนาระบบหลังบ้านทั้งการจัดการออเดอร์เข้าออก ระบบลูกค้าสัมพันธ์ (CRM) ระบบบริการคลังสินค้าและ
               Quality Control ดูแลทั้งระบบเป็น Fullstack Developer รวมทั้งดูแล Cloud Server ไม่ให้เกิดปัญหา 
             </p>
