@@ -35,19 +35,24 @@ export default function About() {
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
             <p>
-              Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His
-              research interests includes complexity modelling of tailwinds, headwinds and
-              crosswinds.
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;สวัสดีครับ ผมชื่อปฐมภัทร์ สูงปานเขาทำงานเป็น Software Developer อยู่ที่บริษัท Aston International
+              ทำหน้าที่พัฒนาระบบหลังบ้านทั้งการจัดการออเดอร์เข้าออก ระบบลูกค้าสัมพันธ์ (CRM) ระบบบริการคลังสินค้าและ
+              Quality Control ดูแลทั้งระบบเป็น Fullstack Developer รวมทั้งดูแล Cloud Server ไม่ให้เกิดปัญหา 
             </p>
             <p>
-              He leads the clean energy group which develops 3D air pollution-climate models, writes
-              differential equation solvers, and manufactures titanium plated air ballons. In his
-              free time he bakes raspberry pi.
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ผมจบการศึกษาจากมหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ สาขาวิชาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์
+              ตอนเรียนสนใจด้าน Web Developer เป็นหลักแต่ก็ได้ทำโปรเจคหลายหลายทั้งด้าน IOT, Data Analytic หรือ
+              System Engineering
             </p>
+            <h3>ความสนใจ</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique
-              placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem
-              nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+              <li>Big Data, Analytics, Machine Learning</li>
+              <li>Crypto Currency, Decentralized Finance</li>
+            </p>
+            <h3>กิจกรรมยามว่าง</h3>
+            <p>
+              <li>เล่นกีตาร์</li>
+              <li>เล่นเกม</li>
             </p>
           </div>
         </div>
